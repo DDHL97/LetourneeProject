@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Letournee</string>
+    <string name="title_activity_registrar">Registrar</string>
+    <string name="titulo1">Pueblos Magicos de Hidalgo</string>
+    <string name="nombre">Nombre:</string>
+    <string name="ap_paterno">Apellido Paterno:</string>
+    <string name="ap_materno">Apellido Materno:</string>
+    <string name="account_name">Nombre de Usuario:</string>
+    <string name="age">Edad:</string>
+    <string name="email">Email:</string>
+    <string name="password">Contraseña:</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="title_activity_hoc1">Huasca de Ocampo</string>
+    <string name="large_text_huasca">
+        "Su nombre deriva del náhuatl Huascazaloyam, que significa "lugar de pájaros, agua, vegetación y alegría",adoptando el "de Ocampo" en honor del célebre político Melchor Ocampo, quien, durante una corta temporada,vivió en este lugar, luego de abandonar la ciudad de México a causa de las políticas represoras impuestas por el entonces presidente Antonio López de Santa Anna, a principios de la segunda mitad del siglo XIX.\n\n"
+
+
+        "Sitios de Interes en Huasca.\n\n"
+
+        "Ex Hacienda San Miguel Regla.\n"
+
+        "Es una construcción del siglo XVIII que funcionara como hacienda de beneficio de metales. Actualmente se conserva gran parte de su casco, donde funciona un hotel, los arcos que formaban parte de los patios y los hornos donde era extraída la plata.\n\n"
+
+        "Ex Hacienda de Santa María Regla.\n\n"
+
+        "Fue la residencia de Pedro Romero de Terreros, primer conde de Regla, quien la denominó sí en honor a la virgen de dicha devoción que se venera en Chipiona, provincia de Cádiz, España, de donde él provenía. Fue la primera hacienda de beneficio de plata que existió en la región; aún se conservan parte de sus patios y una magnífica capilla con fachada de estilo barroco sobrio.\n\n"
+
+        "Los Prismas Basálticos. \n\n"
+
+        "Son increíbles columnas geométricas de basalto ubicadas al pie de una barranca bañada por las aguas de la presa San Antonio. Junto a esta impresionante cascada (de 40 m) se .\n encuentra la Ex Hacienda de Santa María Regla, desde donde Humboldt, impresionado por su belleza, las dibujó a lápiz en 1803. Se localizan a 5 km al noreste de Huasca de Ocampo.\n\n"
+
+        "El Huariche.\n\n"
+
+        "Es un desarrollo ejidal ecoturístico y piscícola ubicado en la comunidad de Ojo de Agua, muy cerca de Santa María Regla. El lugar cuenta con cabañas y plataformas para acampar, así como un bello bosque de encinos..\n\n"
+
+        "El Huariche.\n\n"
+        "Bello paraje que también cuenta con cabañas para que el visitante, acompañado de su familia, disfrute del contacto directo con la naturaleza.\n\n"
+
+        "El Bosque de las Truchas.\n\n"
+        "Ubicado en el municipio de Huasca de Ocampo, este sitio es ideal para la pesca de la trucha arcoíris. En el lugar se puede rentar todo el equipo necesario para la práctica de esta actividad.\n\n"
+
+        "Peña del Aire.\n\n"
+        "Situado al norte de Santa María Regla, por una pequeña carretera de terracería, en este lugar se encuentra una enorme roca de basalto que a simple vista parece estar suspendida en el aire. El efecto visual es impactante y más aún la profunda barranca que se localiza a un costado, ya que parece no tener fin. El paisaje está rodeado de hermosos parajes verdes ideales para la práctica del ecoturismo en sus diferentes modalidades.\n\n"
+
+        "Presa de la Cruz.\n\n"
+
+        "Localizada a sólo 2 km de San Miguel Regla, en este lugar se puede practicar la pesca de trucha, rodeado de un increíble paisaje. A un costado de la presa, los lugareños se ofrecen para cocinar las truchas que el visitante acaba de pescar.\n\n"
+
+        "El tranvía.\n\n"
+
+        "Transporte Turístico y Ejecutivo Los Álamos ofrece, todos los fines de semana, un agradable recorrido lleno de historia por el centro de Huasca de Ocampo y sus principales haciendas en su tranvía turístico. El trayecto tiene una duración de una hora y media."
+    </string>
+    <string name="large_text_mineral_chico">
+        Más de cuatro siglos después de su fundación, impulsada principalmente por la ambición de la riqueza de Mineral del Chico ya no se manifiesta en metales preciosos, sino más bien, en la opción de contemplar en retrospectiva, los avatares históricos de un pueblo minero y sus hermosos alrededores silvestres. Son parajes de gran encanto ecoturístico y propicios también para los afectos al turismo de aventura.\n
+        Este Pueblo Mágico, en el estado de Hidalgo, destaca por el sutil encanto de sus antecedentes históricos y por la pureza natural de su entorno.\n\n
+        Lo mejor para iniciar una visita a Mineral del Chico es tomar un desayuno tradicional, con ricas quesadillas, enchiladas, huaraches, tacos o barbacoa. Si se viaja a este magnífico lugar hidalguense en abril, entonces, por ser temporada también se tendrá la oportunidad de probar los deliciosos escamoles; si es en junio y julio, entonces habrá hongos disponibles, y chinicuiles, en septiembre. Para quien quiera degustar algo fuera de lo común, en Mineral del Chico, se recomienda pedir los hualumbos, es decir, tortitas de flores de madroño.\n\n
+        Qué visitar en Mineral del Chico Pueblo Mágico. \n\n
+        Luego a explorar los muchos sitios atractivos que este Pueblo Mágico tiene para ofrecer. De inicio aparece la Peña del Cuervo, sitio excelente para captar algunas de las mejores panorámicas de Mineral del Chico. Este mirador, al que muchos acuden por su ambiente de sortilegio, tiene la particularidad, además, de propiciar un eco misterioso, que ningún viajero o turista se puede perder. También intrigantes son Las Monjas, formaciones rocosas llamadas de esta manera porque, de acuerdo a cierta leyenda local, derivaron de un grupo de religiosas condenadas a este pétreo estado por haber abandonado sus votos.
+
+    </string>
+    <string name="large_text_real_monte">
+        Hermosa ciudad que durante siglos se ha dedicado a la minería, ha pasado por épocas de bonanza, siempre conservando la belleza de sus calles y bellos callejones llenos de atractivos antiguos.\n\n
+        Se dice que en tiempos del virreinato se daba el nombre de Real a todo lo que estaba bajo el dominio de la corona, tal vez por ese motivo lleva el nombre de Real del Monte, antes de la conquista, Real del Monte era conocido con el nombre de Magotsi del otomí Ma, que significa altura y Gohtsi, paso, portillo, portezuelo. \nActualmente se llama Mineral del Monte.
+        \n\n Qué visitar en Real del Monte Pueblo Mágico.\n\n
+        En Real del Monte, hay muchas cosas que visitar, sobre todo iglesias y ex centros mineros, tales como: \n la Parroquia de Nuestra Señora de la Asunción, fundada por franciscanos; Capilla de La Santa Vera Cruz, de estilo barroco y se localiza al sur de la plaza principal del pueblo; el Museo de Sitio Mina de Acosta; el Panteón Inglés.
+        A los alrededores puedes ir hacia los Prismas Basálticos y al Parque Nacional El Chico.
+
+    </string>
+    <string name="large_text_huichapan">
+        Es un territorio donde habitaron los toltecas, en el siglo VIII, y por ende es un lugar de capital importancia para la historia antigua de nuestra nación. En este mismo sentido, Huichapan, también fue determinante para los derroteros de las gestas de Independencia.
+        \n\nHuichapan quiere decir, “En el río de los huichotes” o “En el río de la chía”, y fue el sitio donde se conmemoró por primera vez la celebración del grito de la Independencia, el 16 de septiembre de 1812, en la construcción denominada popularmente como “El Chapitel”.
+        \n\nQué visitar en Huichapan Pueblo Mágico\n
+        Los edificios coloniales tienen un sitio primordial dentro del abanico de atractivos turísticos de Huichapan y constituyen un patrimonio imperdible para quien visite esta comunidad hidalguense. Destaca el templo y ex convento de San Mateo, una construcción de portada y retablos estilo churrigueresco.
+
+    </string>
+    <string name="large_text_tecozautla">
+        El nombre de Tecozautla proviene de las raíces náhuatl, tetl “piedra”, cozauqui “cosa amarilla” y tla que significa “lugar de”; que en conjunto quiere decir “Lugar donde abunda la tierra amarilla”\n\n
+        El municipio de Tecozautla cuenta con una gran riqueza turística. Su principal atractivo son los balnearios de aguas termales, la gran mayoría con temperaturas de salida de 38 grados centígrados, un geiser natural único en México también cuenta con ríos y manantiales naturales. Recientemente se han encontrado vestigios de pirámides y el cual esta pronta la apertura (Patrimonio cultural de Hidalgo y la Nación), hacemos referencia también a Manantiales Taxhido que fue reconocido a nivel mundial por el agua más limpia y pura del mundo, quedando en 2do lugar. Tecozautla, paradisiaco rincón del Estado de Hidalgo.\n\n
+        El Torreón de Tecozautla es uno de los monumentos más importantes de la localidad. \nLa torre fue edificada en el gobierno del General Porfirio Díaz, atendiendo a un estilo neoclásico.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_iniciar_sesion">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_inicio">Inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_rmc1">Real del Monte</string>
+    <string name="title_activity_hc1">Huichapan</string>
+    <string name="title_activity_mch1">Mineral del Chico</string>
+    <string name="title_activity_ttl1">Tecozautla</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="title_activity_editar_perfil">EditarPerfil</string>
+    <string name="title_activity_guia_huasca">GuiaHuasca</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- Guia Real-->
+    <string name="rtitulo1">Como llegar a Real del monte</string>
+    <string name="rtexto1">Dirigirse al centro de Tulancingo hacia la base de colectivas ubicadas frente la primaria "La Lezama".</string>
+    <string name="rtitulo2">Como llegar a Real del monte</string>
+    <string name="rtexto2">Debera abordar el transporte que tenga un letrero con destino a Huasca, este tiene un precio aproximado de $20.</string>
+    <string name="rtitulo3">Como llegar a Real del monte</string>
+    <string name="rtexto3">Debera esperar un periodo aproximado de 45 minutos para poder llegar al ultimo destino que sera Huasca.</string>
+    <string name="rtitulo4">Como llegar a Real del monte</string>
+    <string name="rtexto4">Estando ahi, justo enfrente donde lo habra dejado el camion,se encuentran unas colectivas blancas con destino a Real del monte, este tiene un precio aproximado de $30</string>
+    <string name="rtitulo5">Como llegar a Real del monte</string>
+    <string name="rtexto5">Por ultimo debera esperar un periodo aproximado de 1 hora, debe indicarle al conductor que lo deje en la entrada</string>
+    <string name="title_activity_guia_ho">GuiaHO</string>
+
+    <!-- Guia Huasca -->
+    <string name="htitulo1">Como llegar a Huasca de Ocampo</string>
+    <string name="htexto1">Dirigirse al centro de Tulancingo hacia la base de colectivas ubicadas frente la primaria "La Lezama".</string>
+    <string name="htitulo2">Como llegar a Huasca de Ocampo</string>
+    <string name="htexto2">Debera abordar el transporte que tenga un letrero con destino a Huasca, este tiene un precio aproximado de $20.</string>
+    <string name="htitulo3">Como llegar a Huasca de Ocampo</string>
+    <string name="htexto3">Finalmente solo resta esperar un periodo aproximado de 45 minutos para poder llegar,siendo el ultimo destino.</string>
+    <string name="title_activity_huasca_posicion">Map</string>
+
+
+</resources>
